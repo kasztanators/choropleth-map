@@ -1,0 +1,17 @@
+voivo_id,name,population,num_cities,cluster
+0,slaskie,4576834,35,1
+1,opolskie,986427,9,2
+2,wielkopolskie,3496213,35,0
+3,zachodniopomorskie,1699491,22,2
+4,swietokrzyskie,1231677,6,2
+5,kujawsko-pomorskie,2080283,22,0
+6,podlaskie,1184384,17,2
+7,dolnoslaskie,2912528,83,0
+8,podkarpackie,2122033,57,0
+9,malopolskie,3372652,65,0
+10,pomorskie,2319454,42,0
+11,warminsko-mazurskie,1426685,30,2
+12,lodzkie,2470434,45,0
+13,mazowieckie,5416460,85,1
+14,lubelskie,5422570,49,1
+15,lubuskie,1012109,54,2
